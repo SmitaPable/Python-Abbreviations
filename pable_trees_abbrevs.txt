@@ -1,0 +1,160 @@
+Python 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\DELL\Desktop\Sem1\Sem1\Programming language\Python\Second try\Assignment1.py
+Alder
+ALD ADR
+
+Crab Apple
+CBP CPP
+
+Common Ash
+CMH
+
+Silver Birch
+SVH
+
+Downy Birch
+DWH DYH DWY
+
+European Beech
+EBH ECH EPH
+
+Box
+BOX
+
+Wild Cherry
+WHY
+
+Bird Cherry
+BHY
+
+Blackthorn
+BKH
+
+Wych Elm
+WYH
+
+Smooth-leaved Elm
+SHV
+
+Common Hawthorn
+CHW CWH CHH
+
+Midland Hawthorn
+MHW MHH MWH
+
+Common Hazel
+CHZ
+
+European Hornbeam
+EHM EHB EPH
+
+European Holly
+EHY
+
+Common Juniper
+CMJ CJP
+
+Small-leaved Lime
+SMV SVM
+
+Large-leaved Lime
+LVM
+
+Field Maple
+FMP
+
+Pedunculate Oak
+PCK
+
+Sessile Oak
+SLK SSK
+
+Scots Pine
+SCP
+
+Aspen
+ASP APN
+
+Black Poplar
+BKP BCK
+
+European Rowan
+EPW
+
+Common Whitebeam
+CWH
+
+Service Tree
+SVC
+
+Wild Service Tree
+WVC
+
+Strawberry Tree
+SWY
+
+Bay Willow
+BYW BWW
+
+Crack Willow
+CKW
+
+White Willow
+WWW WHW
+
+Almond-leaved Willow
+AVW AWW
+
+European Yew
+EYW
+
+Alder Buckthorn
+AKH
+
+Purging Buckthorn
+PKH
+
+Elder
+EDR ELD
+
+Common Dogwood
+CMW
+
+Rock Whitebeam
+RKW RKH
+
+Sea-buckthorn
+SKH
+
+Spindle
+SPD
+
+Sallow
+SLW
+
+Grey Willow
+GWW GYW
+
+Purple Willow
+PWW
+
+Common Osier
+CMM
+
+Eared Willow
+EWW
+
+Guelder Rose
+GDR GLD GDS
+
+Wayfaring tree
+WYF
+
+Common Privet
+CPV CMV
+
+Plot's Elm
+PLM PSM PTM
+
