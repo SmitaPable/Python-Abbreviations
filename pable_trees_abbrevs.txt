@@ -1,7 +1,7 @@
 Python 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
-= RESTART: C:\Users\DELL\Desktop\Sem1\Sem1\Programming language\Python\Second try\Assignment1.py
+= RESTART: "C:\Users\DELL\Desktop\Sem1\Sem1\Programming language\Python\2543320Python1\Assignment1.py"
 Alder
 ALD ADR
 
